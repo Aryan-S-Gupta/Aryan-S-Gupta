@@ -7,10 +7,9 @@ Hi, I'm Aryan 👋. As a Software Engineer with a background in both engineering
 
 ## Technical Proficiencies
 - **Programming Languages:** Python, Java, C, SQL
-- **Software & Tools:** MATLAB, Oracle DB, MongoDB, Git, Docker
+- **Software & Tools:** MATLAB, Oracle DB, MongoDB, Git
 - **Web Development:** HTML, CSS, JavaScript, Angular, React
-- **Operating Systems:** Windows, Linux
-- **Languages:** English (Full professional proficiency), Hindi (Native)
+- **Spoken Languages:** English (Full professional proficiency), Hindi (Native)
 
 ## GitHub Stats
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-S-Gupta&show_icons=true&theme=radical)
