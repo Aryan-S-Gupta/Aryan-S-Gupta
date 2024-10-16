@@ -12,7 +12,7 @@ Hi, I'm Aryan 👋. As a Software Engineer with a background in both engineering
 - **Spoken Languages:** English (Full professional proficiency), Hindi (Native)
 
 ## GitHub Stats
-![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-S-Gupta&show_icons=true&theme=radical)
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aryan-S-Gupta&show_icons=true)
 
 ## Get in Touch ☕
 I'm always open to discussing new opportunities, collaborations, or just chatting about the latest in tech. Feel free to reach out to me through any of the platforms below:
