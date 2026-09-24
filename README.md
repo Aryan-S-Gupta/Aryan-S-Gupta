@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="Aryan-S-Gupta's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 # Hey there 👋
 
 Welcome to my GitHub profile! I'm Aryan Somesh Gupta, a passionate and driven Software Engineer currently pursuing my Bachelor of Engineering at The University of Queensland. With a strong foundation in computer science and engineering, I have a deep interest in software development, data structures, and sustainable technology. I love tackling complex problems and building innovative solutions that have a real-world impact.
